@@ -1,2 +1,2 @@
-# Android-BluetoothEx01
+# Android-Java-BluetoothEx01
 Android Bluetooth Example
